@@ -1,0 +1,138 @@
+* {
+    margin: 0;
+    padding: 0;
+ 
+}
+body {
+    display: inline-block;
+    background-color: rgb(189, 183, 179);
+    padding-top: 80px;
+margin-left: 50px;
+
+}
+header {
+    width: 100%;
+    height: 50px;
+    font-family: 'Macondo', cursive;
+    color: rgb(134, 13, 247);
+    background: radial-gradient(circle, rgba(206,209,98,1) 0%, rgba(163,34,167,1) 100%);
+    text-align: center;
+    font-size: large;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    margin-left: -50px;
+    border-radius: 30px;
+}
+.text1 {
+    width: 100%;
+    height: 40px;
+   
+    font-family: Arial, Helvetica, sans-serif;
+color: brown;
+}
+.text2 { 
+    width: 100%;
+    height: 40px;
+   
+    font-family: 'Koulen', cursive;
+    color: rgb(120, 120, 48);
+}
+.text3 {
+    font-family: 'Fira Sans', sans-serif;
+    color: aqua;
+}
+.text4 {
+    width: 100%;
+    height: 40px;
+   
+    font-family: 'Lato', sans-serif;
+    color: rgb(42, 81, 81);
+}
+.text5 {
+    width: 100%;
+    height: 40px;
+    font-family: 'Macondo', cursive;
+    color: blueviolet;
+}
+.text6 {
+    width: 100%;
+    height: 40px;
+    color: chartreuse;
+    font-family: 'Merriweather', serif;
+}
+.text7 {font-family: 'Oleo Script Swash Caps', cursive;
+    width: 100%;
+    height: 40px;
+    color: rgb(25, 31, 19);}
+.text8 {
+    color: darkblue;
+    font-family: 'Oswald', sans-serif;
+    width: 100%;
+    height: 40px;
+}
+.text9 {
+    color: coral;
+    font-family: 'Poppins', sans-serif;
+    width: 100%;
+    height: 30px;
+}
+.text10 {font-family: 'Roboto', sans-serif;
+    width: 100%;
+    height: 30px;
+color: rgb(48, 45, 42);}
+
+.text11 {font-family: 'Roboto Condensed', sans-serif;
+    width: 100%;
+    height: 30px;
+    color: rgb(50, 33, 33);}
+.text12 {font-family: 'Roboto Mono', monospace;
+    width: 100%;
+    height: 30px;
+color: darkorchid;}
+.text13 {font-family: 'Work Sans', sans-serif;
+    width: 100%;
+    height: 30px;}
+.text14 {font-family: 'Zen Loop', cursive;
+    width: 100%;
+    height: 30px;}
+.text15 {font-family: 'Abel', sans-serif;
+    width: 100%;
+    height: 30px;}
+.text16 {font-family: 'Abril Fatface', cursive;
+    width: 100%;
+    height: 30px;}
+.text17 {font-family: 'Cinzel', serif;
+    width: 100%;
+    height: 30px;
+color: khaki;}
+.text18 {font-family: 'EB Garamond', serif;
+    width: 100%;
+    height: 30px;}
+.text19 {font-family: 'Fira Sans', sans-serif;
+    width: 100%;
+    height: 30px;}
+.text20 {color: deepskyblue;
+    font-family: 'Great Vibes', cursive;}
+/* 
+font-family: 'Fira Sans', sans-serif;
+font-family: 'Koulen', cursive;
+font-family: 'Lato', sans-serif;
+font-family: 'Macondo', cursive;
+font-family: 'Merriweather', serif;
+font-family: 'Oleo Script Swash Caps', cursive;
+font-family: 'Oswald', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
+font-family: 'Roboto Mono', monospace;
+font-family: 'Work Sans', sans-serif;
+font-family: 'Zen Loop', cursive;
+font-family: 'Abel', sans-serif;
+font-family: 'Abril Fatface', cursive;
+font-family: 'Cinzel', serif;
+font-family: 'EB Garamond', serif;
+font-family: 'Fira Sans', sans-serif;
+font-family: 'Great Vibes', cursive;
+*/
+
